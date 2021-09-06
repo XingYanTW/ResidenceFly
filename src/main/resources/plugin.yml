@@ -1,0 +1,4 @@
+name: Resfly
+version: ${project.version}
+main: me.xingyan.resfly.Main
+api-version: 1.16
